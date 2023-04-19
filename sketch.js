@@ -109,6 +109,10 @@ function glyph(){
   }
 
 
+  if(element.length == 1){
+    console.log('working')
+    element[0].remove;
+  }
 
 }
 
