@@ -29,11 +29,11 @@ function setup() {
   enter.mousePressed(add); 
 
   background(0);
-
+}
 
 //if you put button in html instead, it would empty the array and refresh the page.
     
-}
+
 
 function draw() {
 
